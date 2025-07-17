@@ -34,7 +34,8 @@ module.exports = [
         'http://localhost:8081',
         'http://localhost:3000',
         'https://takecare-chi.vercel.app',
-        'https://jolly-acoustics-0c67a1aca7.strapiapp.com'
+        'https://jolly-acoustics-0c67a1aca7.strapiapp.com',
+        'https://www.takesoft.tn'
       ],
       methods: ['GET', 'POST', 'PUT', 'PATCH', 'DELETE', 'HEAD', 'OPTIONS'],
       headers: ['Content-Type', 'Authorization', 'Origin', 'Accept'],
